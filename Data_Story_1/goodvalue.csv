@@ -1,0 +1,52 @@
+,Name,Median Earnings After 10yrs,Cost: Academic Year,Median Debt at Graduation,% Pell Recipients,Admissions Rate
+1730,Boston College,67000.0,54595.0,19000.0,0.1385,0.2798
+1618,Bowdoin College,54800.0,54950.0,15000.0,0.1612,0.1611
+3993,Brigham Young University-Provo,57400.0,16050.0,11000.0,0.356,0.6278
+3567,Brown University,59700.0,54370.0,13022.0,0.1548,0.0891
+236,California Institute of Technology,74000.0,52389.0,15414.0,0.1138,0.1277
+3327,Carnegie Mellon University,72000.0,55286.0,20750.0,0.1458,0.3044
+2967,Case Western Reserve University,67000.0,52073.0,19125.0,0.2255,0.5126
+1621,Colby College,53000.0,53590.0,17500.0,0.097,0.2944
+2511,Colgate University,61500.0,54030.0,16625.0,0.1102,0.2942
+4050,College of William and Mary,56400.0,23722.0,17586.0,0.1265,0.3464
+607,Colorado School of Mines,74700.0,25121.0,21844.0,0.204,0.4455
+2513,Columbia University in the City of New York,72900.0,56681.0,12500.0,0.1497,0.0954
+2521,Cornell University,70900.0,54667.0,11000.0,0.1695,0.1797
+2301,Dartmouth College,67100.0,55386.0,10712.0,0.1641,0.1168
+2810,Duke University,76700.0,55150.0,7150.0,0.1353,0.1648
+941,Emory University,59000.0,53556.0,18947.5,0.2178,0.2887
+731,George Washington University,64500.0,55625.0,20867.5,0.1327,0.3169
+732,Georgetown University,83300.0,56485.0,17500.0,0.1313,0.2015
+945,Georgia Institute of Technology-Main Campus,74000.0,19793.0,20963.0,0.174,0.5169
+1349,Grinnell College,45600.0,49062.0,11060.0,0.2115,0.448
+2567,Hamilton College,57300.0,53560.0,17000.0,0.1392,0.2737
+1764,Harvard University,87200.0,53950.0,6000.0,0.1065,0.0626
+1672,Johns Hopkins University,69200.0,55390.0,17500.0,0.1397,0.194
+3412,Lehigh University,76800.0,52454.0,21250.0,0.147,0.3337
+1787,Massachusetts Institute of Technology,91600.0,53210.0,14003.0,0.1991,0.0973
+1167,Northwestern University,64100.0,56406.0,17207.5,0.1308,0.2313
+2664,Polytechnic Institute of New York University,73500.0,45230.0,20604.0,0.483,0.6814
+2675,Rensselaer Polytechnic Institute,81700.0,54035.0,25000.0,0.184,0.3963
+3916,Rice University,59900.0,47871.0,9625.5,0.1661,0.1882
+1309,Rose-Hulman Institute of Technology,78900.0,51427.0,25000.0,0.2059,0.6224
+2719,SUNY at Binghamton,58400.0,19988.0,18972.0,0.2789,0.4007
+531,Santa Clara University,67700.0,53122.0,17749.0,0.1519,0.5795
+4428,Stanford University,80900.0,55918.0,11145.5,0.1787,0.071
+2416,Stevens Institute of Technology,82800.0,53661.0,24000.0,0.2461,0.4167
+1838,Tufts University,67800.0,55000.0,17125.0,0.1332,0.2186
+253,University of California-Berkeley,62700.0,30800.0,15000.0,0.3445,0.2143
+256,University of California-Los Angeles,59200.0,29240.0,15000.0,0.3599,0.2554
+258,University of California-San Diego,59600.0,27700.0,17734.0,0.4611,0.3788
+1064,University of Chicago,62800.0,57590.0,17500.0,0.1767,0.1626
+1680,University of Maryland-College Park,59100.0,21785.0,18165.0,0.1969,0.448
+2859,University of North Carolina at Chapel Hill,50400.0,20208.0,15863.0,0.2032,0.3388
+1301,University of Notre Dame,69400.0,53239.0,19737.0,0.1258,0.2429
+3481,University of Pennsylvania,78200.0,55250.0,19125.0,0.1309,0.1243
+4107,University of Richmond,60800.0,52413.0,18980.0,0.1788,0.3271
+561,University of Southern California,66100.0,55493.0,21500.0,0.2169,0.2302
+4129,University of Virginia-Main Campus,58600.0,22535.0,17125.0,0.1254,0.3327
+3777,Vanderbilt University,60900.0,56634.0,11900.0,0.1465,0.1642
+2215,Washington University in St Louis,62300.0,56930.0,19000.0,0.0738,0.1652
+4137,Washington and Lee University,77600.0,53082.0,19250.0,0.0785,0.1822
+1839,Wellesley College,56700.0,54000.0,9200.0,0.1979,0.3068
+713,Yale University,66000.0,55300.0,8500.0,0.1418,0.0788
