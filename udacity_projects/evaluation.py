@@ -16,6 +16,7 @@ sys.path.append("../tools/")
 from feature_format import featureFormat, targetFeatureSplit
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.cross_validation import train_test_split
+from sklearn.metrics import confusion_matrix, precision_recall_fscore_support
 
 data_dict = pickle.load(open("../final_project/final_project_dataset.pkl", "r") )
 
@@ -34,5 +35,14 @@ features_train, features_test, labels_train, labels_test = train_test_split(feat
 clf = DecisionTreeClassifier()
 clf.fit(features_train, labels_train)
 acc = clf.score(features_test, labels_test)
-print acc
+test_pred = clf.predict(features_test)
+print 'Accuracy:', acc
+print 'Num POIs predicted in test set: ', sum(clf.predict(features_test))
+print 'Test set size: ', len(features_test)
+print confusion_matrix(labels_test, test_pred)
+print precision_recall_fscore_support(labels_test, test_pred)
 
+# sample data for lesson 14 exercises
+predictions = [0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1]
+true_labels = [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+print confusion_matrix(true_labels, predictions)
